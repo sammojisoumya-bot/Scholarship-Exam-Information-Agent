@@ -1,0 +1,84 @@
+# NOTE: Sample data (fictional). Replace every section with your real scholarship and exam details.
+# Keep the format: a "## Name" heading, then "Key: value" lines. Dates must be YYYY-MM-DD.
+
+## Sunrise Merit Scholarship
+Type: Scholarship
+Amount: Rs 50,000 per year
+Min CGPA: 8.5
+Max Family Income: 800000
+Categories: All
+Deadline: 2026-10-31
+Documents: Previous semester marksheet, income certificate, ID proof
+How to Apply: Apply on the college scholarship portal under Merit Awards.
+
+## Sunrise Need-Based Grant
+Type: Scholarship
+Amount: Rs 30,000 per year
+Min CGPA: 6.0
+Max Family Income: 300000
+Categories: All
+Deadline: 2026-11-15
+Documents: Income certificate, bank passbook, ID proof
+How to Apply: Submit the form at the Accounts Office or on the scholarship portal.
+
+## Category Fee Support Scheme
+Type: Scholarship
+Amount: Full tuition fee waiver
+Min CGPA: 6.0
+Max Family Income: 250000
+Categories: SC, ST, OBC
+Deadline: 2026-10-20
+Documents: Caste certificate, income certificate, marksheet
+How to Apply: Apply on the portal, then verify documents at the Admin Office within 7 days.
+
+## Research Excellence Grant
+Type: Scholarship
+Amount: Rs 40,000 one-time
+Min CGPA: 8.0
+Categories: All
+Deadline: 2026-12-10
+Documents: Research proposal, faculty recommendation, marksheet
+How to Apply: Email the proposal to the Research Cell.
+
+## Sports Excellence Scholarship
+Type: Scholarship
+Amount: Rs 25,000 per year
+Min CGPA: 6.0
+Categories: All
+Deadline: 2026-08-31
+Documents: State or national level participation certificate
+How to Apply: Apply through the Sports Department.
+
+## Scholarship Qualifier Test
+Type: Exam
+Fee: Rs 200
+Deadline: 2026-10-10
+Exam Date: 2026-10-25
+Syllabus: Quantitative aptitude, logical reasoning and general English
+Duration: 90 minutes
+How to Apply: Register on the exam portal before the deadline. Hall tickets are released 3 days before the exam.
+
+## Mid Semester Examination
+Type: Exam
+Exam Date: 2026-11-05
+Syllabus: Units 1 to 3 of every subject
+Duration: 2 hours per paper
+Note: Students below 75 percent attendance are not allowed to appear.
+
+## Semester End Examination
+Type: Exam
+Deadline: 2026-12-01
+Exam Date: 2026-12-15
+Fee: Rs 1,500 examination fee
+Syllabus: Complete syllabus of all subjects
+Duration: 3 hours per paper
+Note: The last date to pay the examination fee is the Deadline above. A late fee of Rs 500 applies for one extra week.
+
+## General Scholarship Rules
+Only one merit-based scholarship can be held at a time, but a merit scholarship can be combined with a need-based grant. Scholarships are renewed every year if the student maintains the minimum CGPA and 75 percent attendance. Amounts are credited to the student's bank account within 45 days of approval.
+
+## Exam Rules
+Students must carry the college ID card and hall ticket. Mobile phones are not allowed in the exam hall. Revaluation requests must be submitted within 7 days of result declaration, with a fee of Rs 300 per paper.
+
+## Contact
+Scholarship Cell, Sunrise Institute of Technology. Email: scholarships@sunrise.example.edu. Exam Section email: exams@sunrise.example.edu. Office hours: 10 AM to 4 PM, Monday to Friday.
